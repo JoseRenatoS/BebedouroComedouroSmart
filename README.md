@@ -1,10 +1,11 @@
 # Bebedouro e Comedouro Inteligente controlado via Telegram, para Pets
 
-<!--
+
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=ANDAMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2aef1242-0a4b-43fe-b11e-9ba5767dd0ac" width="650" height="500"/>
 </p>

@@ -304,7 +304,7 @@ void handleNewMessages(int numNewMessages) {                                  //
       welcome += "--> Fornecer APENAS água (em militros). Digite o comando /agua <quantidade>\n\n";
       welcome += "--> Fornecer AMBOS (comida e água). Digite o comando /ambos <quantidade_comida> <quantidade_agua>\n\n";
       welcome += "--> Realizar o agendamento de APENAS água ou comida. Digite o comando /agendar <dia-mês-ano> <dia-mês-ano> <hora:minuto> <agua_ou_comida> <quantidade>\n\n";
-      welcome += "--> Realizar o agendamento de AMBOS (comida e água). Digite o comando /agendar <dia-mês-ano> <dia-mês0ano> <hora:minuto> ambos <quantidade_comida> <quantidade_agua>\n\n";
+      welcome += "--> Realizar o agendamento de AMBOS (comida e água). Digite o comando /agendar <dia-mês-ano> <dia-mês-ano> <hora:minuto> ambos <quantidade_comida> <quantidade_agua>\n\n";
       welcome += "--> Verificar a quantidade restante de ração e de água nos potes. Digite o comando /status\n\n";
       welcome += "--> Exibir todos os agendamentos. Digite o comando /agendamentos\n\n";
       welcome += "--> Para apagar um agendamento de cada vez. Digite o comando /apagar <numero_agendamento>";

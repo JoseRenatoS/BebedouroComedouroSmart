@@ -36,7 +36,6 @@ float comidaDesejada = 0;                                                     //
 float vazaoComida = 50;                                                       // variável que armazena a quantidade de ração que sai pela tubulação (g)
 double aguaMedida = 0;                                                        // variável responsável por armazenar a quantidade de água medida (ml)
 float aguaDesejada = 0;                                                       // variável responsável por armazenar a quantidade de água desejada (ml)
-float calibration_factor = 42130;                                             // fator de calibração para teste inicial
 int flowPin = 2;                                                              // Pino de entrada no ESP32
 volatile int count;                                                           // Contador de pulsos
 int countComida = 0;                                                          // contador para água e comida

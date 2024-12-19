@@ -3,7 +3,7 @@
 #include <UniversalTelegramBot.h>                                             // biblioteca para interagir com a API do Telegram
 #include <ESP32Servo.h>                                                       // biblioteca para o ESP32 controlar servomotores
 #include <NTPClient.h>                                                        // biblioteca usada para conectar a data e horário da internet   (https://github.com/taranais/NTPClient)
-
+#include <ArduinoJson.h>
 
 // Inicializando a conexao Wi-Fi
 char ssid[] = "nome_do_wifi";                                                  

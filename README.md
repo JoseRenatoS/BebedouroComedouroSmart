@@ -58,18 +58,15 @@ Para utilizar o projeto, alguns requisitos são necessário:
 ## :toolbox: Materiais & Custos
 | Componentes | Preço Unitário (R$) | Quantidade | Preço (R$) |
 |----------|:----------:|:----------:|:----------:|
-| ESP32 Doit DevKitC V4 WROOM-32D  | 62,04 | 1 | 62,04 |
-| Mini Bomba de Água Submersa 3V-5V | 14,10 | 1 | 14,10 |
-| Buzzer ativo | 2,51 | 1 | 2,51 |
-| LED | 0,25 | 1 | 0,25 |
-| Relé 4 Canais | 20,65 | 1 | 20,65 |
-| Resistores de 10kΩ | 0,15 | 6 | 0,90 |
-| Resistores de 2kΩ | 0,29 | 1 | 0,29 |
-| Protoboard 830 pinos | 12,90 | 3 | 38,70 |
-| Protoboard 170 pinos | 3,90 | 2 | 7,80 |
-| Fonte Bivolt 9V/1A | 11,52 | 2 | 23,04 |
-| Fonte Ajustável para Protoboard | 8,12 | 2 | 16,34 |
-| **TOTAL**              ||| **R$ --,--** |
+| ESP32 Doit DevKitC V4 WROOM-32D  | 56,78 | 1 | 56,78 |
+| Sensor de Nível de Água  | 7,47 | 1 | 7,47 |
+| Mini Bomba de Água Submersa 3V-5V | 12,90 | 1 | 12,90 |
+| Micro Servo Motor | 25,02 | 1 | 25,02 |
+| Resistores de 10kΩ | 0,90 | 1 | 0,90 |
+| Botão | 2,14| 1 | 2,14 |
+| Protoboard 830 pinos | 12,90 | 1 | 12,90 |
+| Fonte Bivolt 9V/1A | 10,90 | 1 | 10,90 |
+| **TOTAL**              ||| **R$ 129,01** |
 <br>
 
 > [!NOTE]
